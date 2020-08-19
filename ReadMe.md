@@ -22,7 +22,7 @@ In this challenge you will write tests with Cypress to debug your forms app from
 ### Task 1: Set up Project
 
 This project is a continuation of the work you have done previously.
-
+- [x] Initial commit
 - [ ] CD into your old project
 - [ ] Continue to make changes and push to the same branch
 - [ ] Install Cypress with npm.
